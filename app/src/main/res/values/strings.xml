@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProductApp</string>
+    <string name="terms_of_services"><u>Terms of Services</u></string>
+    <string-array name="itemarray">
+        <item>Adidas</item>
+        <item>Nike</item>
+        <item>Puma</item>
+        <item>Reebok</item>
+        <item>Vans</item>
+    </string-array>
+</resources>

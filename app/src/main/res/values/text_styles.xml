@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="signup_text">
+        <item name="android:textColor">#ADADAD</item>
+        <item name="fontFamily">@font/montserrat_medium</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_marginStart">3dp</item>
+    </style>
+
+</resources>
